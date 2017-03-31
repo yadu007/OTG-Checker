@@ -1,4 +1,4 @@
-package com.example.synapse_system.first;
+package com.example.first;
 
 import android.app.Dialog;
 import android.content.Intent;
